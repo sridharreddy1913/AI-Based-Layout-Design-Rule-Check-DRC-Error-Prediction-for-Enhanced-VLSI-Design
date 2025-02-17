@@ -12,4 +12,13 @@ where the model was tested.
 
 Open Google Colab or any other necessary platform, upload the .ipynb and .csv files, and run the code.
 
-# 
+# Results
+![Screenshot 2025-02-17 at 6 06 36 PM](https://github.com/user-attachments/assets/9c26e609-ace9-473a-9d6b-d52457627223)
+![Screenshot 2025-02-17 at 6 06 24 PM](https://github.com/user-attachments/assets/bc16f48a-40c8-4118-be1b-17d447a05d24)
+
+
+This project successfully developed an AI-based model to predict DRC errors in VLSI layout
+designs, providing a valuable tool for early error detection in the VLSI design cycle. Through
+a structured methodology that included data preprocessing, feature engineering, model
+training, and evaluation, we demonstrated that machine learning, particularly the Random
+Forest algorithm, can effectively predict potential layout violations.
