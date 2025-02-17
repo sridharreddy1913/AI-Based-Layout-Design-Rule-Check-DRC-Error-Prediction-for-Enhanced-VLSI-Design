@@ -13,8 +13,13 @@ where the model was tested.
 Open Google Colab or any other necessary platform, upload the .ipynb and .csv files, and run the code.
 
 # Results
-![Screenshot 2025-02-17 at 6 06 36 PM](https://github.com/user-attachments/assets/9c26e609-ace9-473a-9d6b-d52457627223)
+
+# Model Performance Comparison
 ![Screenshot 2025-02-17 at 6 06 24 PM](https://github.com/user-attachments/assets/bc16f48a-40c8-4118-be1b-17d447a05d24)
+
+# Classification Reports
+![Screenshot 2025-02-17 at 6 06 36 PM](https://github.com/user-attachments/assets/9c26e609-ace9-473a-9d6b-d52457627223)
+
 
 
 This project successfully developed an AI-based model to predict DRC errors in VLSI layout
