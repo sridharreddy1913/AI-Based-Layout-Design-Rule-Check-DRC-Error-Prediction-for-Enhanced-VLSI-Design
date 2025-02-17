@@ -7,3 +7,9 @@ takes time. This research work reduces the design process cycle time by the appl
 the machine learning techniques in the estimating of the DRC errors at an early stage of the
 design process. Errors in DRC rules were predictably better than conventional methods
 where the model was tested.
+
+# How to run
+
+Open Google Colab or any other necessary platform, upload the .ipynb and .csv files, and run the code.
+
+# 
